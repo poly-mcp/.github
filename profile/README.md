@@ -28,7 +28,7 @@ We focus on:
 
 **PolyMCP** is a universal MCP toolkit and agent framework for **Python** and **TypeScript**.
 
-- GitHub: https://github.com/llm-use/polymcp
+- GitHub: https://github.com/poly-mcp/PolyMCP
 - Website: https://www.poly-mcp.com
 - PyPI: https://pypi.org/project/polymcp/
 
