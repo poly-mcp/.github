@@ -7,7 +7,6 @@
   <a href="https://github.com/orgs/poly-mcp/repositories"><img src="https://img.shields.io/badge/repos-browse-blue" alt="Repositories"></a>
   <a href="https://github.com/poly-mcp/.github/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="License"></a>
   <a href="https://github.com/poly-mcp/.github/issues"><img src="https://img.shields.io/badge/support-issues-orange" alt="Issues"></a>
-  <a href="https://www.poly-mcp.com"><img src="https://img.shields.io/badge/website-poly--mcp.com-blue" alt="Website"></a>
 </p>
 
 > The organization behind PolyMCP — MCP tooling and agent infrastructure for teams shipping real products.
